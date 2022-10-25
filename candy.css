@@ -1,3 +1,7 @@
+body {
+  background-color: #d6efff;
+  font-family: 'Nunito', sans-serif;
+}
 h2 {
   color: #ea1c2c;
   font-size: 2rem;
@@ -21,7 +25,9 @@ h2 {
   color: white;
   font-size: 20px;
 }
-
+.nav-link:hover {
+  color: #ea1c2c;
+}
 #headingGroup span {
   color: #ea1c2c;
 }
